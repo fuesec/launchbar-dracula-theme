@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTextColor</key>
+	<string>#F8F8F2</string>
+	<key>defaultDimmedTextColor</key>
+	<string>#BD93F9</string>
+	<key>defaultTextShadowColor</key>
+	<string>#00000033</string>
+	<key>inputAreaAbbreviationInputProgressIndicationAlpha</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationTextColor</key>
+	<string>#FF79C6</string>
+	<key>inputAreaDimmedTextColor</key>
+	<string>@defaultDimmedTextColor</string>
+	<key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
+	<real>-0.3</real>
+	<key>inputAreaNonKeyWindowTextShadowColor</key>
+	<string>@defaultTextShadowColor</string>
+	<key>inputAreaActionMenuAreaTextShadowColor</key>
+	<string>@defaultTextShadowColor</string>
+	<key>inputAreaActionMenuAreaBackgroundColor</key>
+	<string>1 1 1 0.1</string>
+	<key>textInputPlaceholderTextColor</key>
+	<string>#999999</string>
+	<key>textInputSelectedTextBackgroundColor</key>
+	<string>@itemListSelectionHighlightColor - 0.3</string>
+	<key>textInputTextColor</key>
+	<string>#f0f0f0</string>
+	<key>itemListGridLineHeight</key>
+	<integer>0</integer>
+	<key>itemListGridLineShadowHeight@1x</key>
+	<real>0.5</real>
+	<key>itemListGridLineShadowGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>1 1 1 0</string>
+		<key>0.1</key>
+		<string>1 1 1 0.2</string>
+		<key>0.9</key>
+		<string>1 1 1 0.2</string>
+		<key>1.0</key>
+		<string>1 1 1 0</string>
+	</dict>
+	<key>itemListNavigationArrowImage</key>
+	<string>NavigationArrowH</string>
+	<key>itemListScrollerColor</key>
+	<string>#ffffff60</string>
+	<key>itemListSelectionHighlightColor</key>
+	<string>#6272A4</string>
+	<key>itemListSelectionSubsearchHighlightColor</key>
+	<string>#FF79C6</string>
+	<key>itemListSeparatorUpperLineThickness</key>
+	<integer>0</integer>
+	<key>itemListSeparatorUpperLineColor</key>
+	<string>#505050</string>
+	<key>itemListSeparatorLowerLineThickness</key>
+	<integer>1</integer>
+	<key>itemListSeparatorLowerLineColor</key>
+	<string>#ffffff20</string>
+	<key>itemListStagedItemHighlightLevel</key>
+	<real>0.45</real>
+	<key>itemListSubtitleTextColor</key>
+	<string>@defaultDimmedTextColor</string>
+	<key>windowBackgroundColor</key>
+	<string>#282A36</string>
+	<key>windowBackgroundIsDark</key>
+	<true/>
+	<key>windowHasInnerShadow</key>
+	<false/>
+	<key>windowShadowStyle</key>
+	<integer>1</integer>
+</dict>
+</plist>
